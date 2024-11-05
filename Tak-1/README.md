@@ -51,15 +51,15 @@ Enter Your Choice (1/2/3/4/5): _
 ## اجرای برنامه
 1. مخزن را کلون کنید:
    ```bash
-   git clone https://github.com/نام‌کاربری‌شما/bank-account-management.git
+   https://github.com/Salarlotfi1381/Special-Issues2.git
    ```
 2. به دایرکتوری پروژه بروید:
    ```bash
-   cd bank-account-management
+   cd Tak-1
    ```
 3. برنامه را اجرا کنید:
    ```bash
-   python bank_account.py
+   python TakOne.py
    ```
 
 ## نویسنده
